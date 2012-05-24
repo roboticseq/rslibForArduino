@@ -1,0 +1,40 @@
+#######################################
+# Syntax Coloring Map For RS
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+pinmode 	KEYWORD2
+digitalRead	KEYWORD2
+digitalWrite	KEYWORD2
+analogRead	KEYWORD2
+analogWrite	KEYWORD2
+servoPosUs	KEYWORD2
+stepMove	KEYWORD2
+stepConfig  KEYWORD2
+stepConfigProfile KEYWORD2
+stepConfigPulseDurationUs KEYWORD2
+stepConfigInterruptDelayUs KEYWORD2
+stepToGo KEYWORD2
+counterConfig	KEYWORD2
+counterReset	KEYWORD2
+counterGetCount	KEYWORD2
+counterConfigPinAMode	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+RSBoard	KEYWORD2
+RSServo KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
